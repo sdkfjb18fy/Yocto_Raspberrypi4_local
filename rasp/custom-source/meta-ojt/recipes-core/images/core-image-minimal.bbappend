@@ -5,4 +5,5 @@ IMAGE_FSTYPES = "wic"
 IMAGE_INSTALL += " \
     file-operation \
     network-config \
+    video-player \
 "
